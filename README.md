@@ -6,7 +6,7 @@
 
 ### 部署方法
 ```
-镜像：t40462860/ssr-with-net-speeder-arukas
+镜像：xiaotian40462860/ssr-with-net-speeder-arukas
 端口:3999 TCP
 CMD : node /app/server.js token secret xxxxx-appid-xxxxxx
 #推荐使用上面的CMD命令
@@ -35,7 +35,7 @@ ID	fd9b708e-9a2c-45a0-b81c-620944369c2d
 该ID必须在你的账号下才能访问。
 如果你输入的appid 是 all。会自动获取你账号下使用以下镜像创建的APP。
 
-"t40462860/ssr-with-net-speeder",
+"xiaotian40462860/ssr-with-net-speeder",
 
 "lowid/ss-with-net-speeder",
 
